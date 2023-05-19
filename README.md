@@ -28,15 +28,20 @@ git clone https://github.com/Tanay3484/PlayStore-App-Rating-Predictor.git
 
 Step 2 : 
 ```console
-pip install -r requirements.txt
+cd playstore-app-rating-predictor
 ```
 
 Step 3 : 
 ```console
+pip install -r requirements.txt
+```
+
+Step 4 : 
+```console
 streamlit run app.py
 ```
 
-Step 4: 
+Step 5: 
 The application should open automatically on the local browser. You can use it from there.
 
 Thank you!
