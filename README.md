@@ -23,7 +23,7 @@ Steps to run the application :
 
 Step 1 : 
 ```console
-git clone
+git clone https://github.com/Tanay3484/PlayStore-App-Rating-Predictor.git
 ```
 
 Step 2 : 
